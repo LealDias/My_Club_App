@@ -4,6 +4,12 @@ My Club App - For Events Management
 ## Objective:
   This app has many functionalities for event management, integrating users and event managers.
   
+## Maintenance and Upgrades
+  There is more features to Add to this original project and it is ongoing.
+  
+## Database  
+  The chosen database is the SQlite for performance purposes.
+  
 ## Outcomes:
 Check for Events Registered
 ![image](https://user-images.githubusercontent.com/70763447/184363524-08c57ed4-1a74-48db-9b1d-3a03037c82c8.png)
